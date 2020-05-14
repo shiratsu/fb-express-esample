@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "chat-hiratsuka",
+    "staging": "chat-hiratsuka"
+  }
+}
